@@ -19,6 +19,27 @@ a {
   color: white;
 }
 
+.row {
+  margin: 10px 0;
+}
+
+.introduction {
+  background: rgba(0.3, 0.3, 0.3, 0.3);
+  margin: auto;
+  padding: 20px;
+  max-width: 800px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.report-download {
+  background: rgba(0.3, 0.3, 0.3, 0.3);
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
 .photo-credit {
   position: absolute;
   right: 5px;
