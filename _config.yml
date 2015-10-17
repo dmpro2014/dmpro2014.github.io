@@ -1,0 +1,7 @@
+name: Demolicious
+highlighter: pygments
+exclude: ["Gemfile", "Gemfile.lock", "Makefile", "README.md"]
+
+sass:
+    style: :compressed
+    compile_in_place: false
