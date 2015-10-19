@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "typography";
+
 html, body {
   margin: 0;
   padding: 0;
@@ -11,7 +13,6 @@ body {
   background: url('/demolicious.jpg') no-repeat center;
   background-size: cover;
   color: white;
-  font-family: helvetica, arial, sans-serif;
   text-align: center;
 }
 
