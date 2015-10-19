@@ -1,0 +1,16 @@
+.button {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.9);
+  font-weight: 700;
+  font-family: 'Inconsolata', consolas, monospace;
+  font-size: 1.1em;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
