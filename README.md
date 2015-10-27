@@ -2,7 +2,7 @@
 
 ## Setup
 
-**Prerequisites:** ruby (1.9.3 or higher), rubygems and bundler.
+**Prerequisites:** ruby (2.0.0 or higher), rubygems and bundler.
 
 When these are installed, you can run `bundle install`.
 
