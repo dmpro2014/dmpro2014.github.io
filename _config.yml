@@ -1,5 +1,5 @@
 name: Demolicious
-highlighter: pygments
+highlighter: rouge
 exclude: ["Gemfile", "Gemfile.lock", "Makefile", "README.md"]
 
 sass:
